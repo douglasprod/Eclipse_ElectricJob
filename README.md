@@ -1,7 +1,8 @@
 ## [ESX]Eclipse_ElectricJob
 
 ## Requirements
-- [es_extended](https://github.com/esx-framework/es_extended/tree/v1-final)
+- [es_extended](https://github.com/esx-framework/es_extended/tree/v1-final) or [qb-core](https://github.com/qbcore-framework/qb-core) 
+
 
 ## Installation:
 Put `eclipse_ElectricJob` in your resources folder, make changes in `config.json`, if you need it.
